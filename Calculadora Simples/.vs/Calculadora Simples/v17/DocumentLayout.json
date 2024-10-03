@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leite\\source\\repos\\Calculadora Simples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB17F344-2ECF-4D20-B50C-02F79ACBE94B}|Calculadora Simples\\Calculadora Simples.csproj|c:\\users\\leite\\source\\repos\\calculadora simples\\calculadora simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB17F344-2ECF-4D20-B50C-02F79ACBE94B}|Calculadora Simples\\Calculadora Simples.csproj|solutionrelative:calculadora simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leite\\source\\repos\\Calculadora Simples\\Calculadora Simples\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora Simples\\Program.cs",
+              "ToolTip": "C:\\Users\\leite\\source\\repos\\Calculadora Simples\\Calculadora Simples\\Program.cs",
+              "RelativeToolTip": "Calculadora Simples\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:30:52.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

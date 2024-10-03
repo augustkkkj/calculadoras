@@ -1,0 +1,14 @@
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.exe
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.deps.json
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.runtimeconfig.json
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.dll
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.pdb
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.AssemblyInfoInputs.cache
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.AssemblyInfo.cs
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.csproj.CoreCompileInputs.cache
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.dll
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\refint\Calculadora de IMC.dll
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.pdb
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.genruntimeconfig.cache
+C:\Users\leite\source\repos\Calculadora de IMC\Calculadora de IMC\obj\Debug\net8.0\ref\Calculadora de IMC.dll

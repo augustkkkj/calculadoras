@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leite\\source\\repos\\Calculadora de IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E4EC1C-22A7-4AD5-B282-79454DD1333A}|Calculadora de IMC\\Calculadora de IMC.csproj|c:\\users\\leite\\source\\repos\\calculadora de imc\\calculadora de imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E4EC1C-22A7-4AD5-B282-79454DD1333A}|Calculadora de IMC\\Calculadora de IMC.csproj|solutionrelative:calculadora de imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leite\\source\\repos\\Calculadora de IMC\\Calculadora de IMC\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora de IMC\\Program.cs",
+              "ToolTip": "C:\\Users\\leite\\source\\repos\\Calculadora de IMC\\Calculadora de IMC\\Program.cs",
+              "RelativeToolTip": "Calculadora de IMC\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:20:33.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
